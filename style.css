@@ -9,6 +9,7 @@
 	height: 92px;
 	line-height: 92px;
 	color:#333;
+	
 }
 
 .header h1, .header p {
@@ -19,6 +20,7 @@
 .content {
 	padding: 20px;
 	min-height: calc(100vh - 212px);
+	
 }
 
 .footer {
@@ -29,6 +31,7 @@
 }
 .footer p {
 	margin-left: 40px;
+	
 	color:#333;
 }
 
