@@ -8,18 +8,23 @@
 	background-color: #e2e2e2;
 	height: 92px;
 	line-height: 92px;
-	color:#333;
+	color:#AD550B;
+	font-family: Arial;
 	
 }
 
 .header h1, .header p {
 	float: left;
 	margin-left: 10px;
+	font-family: Arial;
 }
 
 .content {
 	padding: 20px;
 	min-height: calc(100vh - 212px);
+	font-family: Arial;
+	font-size: 15px;
+	color: #333;
 	
 }
 
@@ -31,7 +36,8 @@
 }
 .footer p {
 	margin-left: 40px;
-	
-	color:#333;
+	font-family: Arial;
+	font-weight:600;
+	color:#130D96;
 }
 
